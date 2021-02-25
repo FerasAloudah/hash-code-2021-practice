@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/problem.png" alt="Problem statement" />
-</p>
+![title.png](assets/title.png)
 
 # Hash Code 2021 - Even More Pizza (Practice Problem)
 
@@ -29,9 +27,7 @@ for `d.in` and `e.in` due to how big they are.
 
 ## Results
 
-<p align="center">
-  <img src="assets/pizza.png" alt="Pizza" />
-</p>
+![pizza.png](assets/pizza.png)
 
 | Input Data Set                 | Score              |
 |:-------------------------------|:-------------------|
