@@ -45,7 +45,7 @@ def score_pizza(current_ingredients: set[str], pizza: Pizza) -> int:
 
 def get_delivery(members: int, available_pizzas: list[Pizza]) -> Delivery:
     pizzas: list[Pizza] = []
-    current_ingredients = set()
+    current_ingredients: set[str] = set()
     for _ in range(members):
         # Find the best pizza that matches our current ingredients based on our scoring function.
         pizza = max(available_pizzas, key=lambda x: score_pizza(current_ingredients, x))

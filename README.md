@@ -1,6 +1,6 @@
-![title.png](assets/title.png)
-
 # Hash Code 2021 - Even More Pizza (Practice Problem)
+
+![title.png](assets/title.png)
 
 This is my attempt at solving the practice problem that is provided from
 Google in preparation for the competition. The problem statement is
@@ -11,7 +11,8 @@ included in the files.
 - `Python 3.9+` due to the usage of typing (You can remove them, or
   replace the `list` and `set` typings with their `List` and `Set`
   equivalents if you wish to run the script on an older version).
-- You need to install `tqdm` by running `pip install tqdm`.
+- You need to run `pip install -r requirements.txt` to install the
+  required packages.
 
 ## Code usage
 
